@@ -11,8 +11,7 @@ const s5 = "and";
 
 
 // Print out the concatenated string
-
-
+console.log("Tongue Twister: " + "HOLA");
 
 
 /*******************************************
